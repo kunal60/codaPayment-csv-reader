@@ -1,0 +1,3 @@
+FirstName,MiddleName,LastName,Address,PhoneNumber,City,State,email,EmptyField
+Kunal,,Malhotra,House no 129,810-292-9388,Rajouri,J&K,kunalmalhotra9322@gmail.com,
+Jialal,Om,Parkash,House no 128,810-292-9398,Jammu,J&K,kunaloneplus93@gmail.com,

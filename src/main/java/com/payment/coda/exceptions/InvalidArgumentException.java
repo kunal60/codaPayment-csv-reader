@@ -1,0 +1,12 @@
+package com.payment.coda.exceptions;
+
+/**
+ * @author Kunal Malhotra
+ */
+public class InvalidArgumentException extends Exception {
+
+    public InvalidArgumentException(String str) {
+
+        super(str);
+    }
+}
